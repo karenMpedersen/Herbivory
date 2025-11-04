@@ -1,0 +1,5 @@
+
+# files and folders to ignore
+.vscode
+HebiEstim
+latest_net_G.pth
